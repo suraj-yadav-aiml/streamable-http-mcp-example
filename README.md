@@ -91,6 +91,22 @@ This MCP server provides 4 interactive tools:
    - Close and reopen Claude Desktop
    - The MCP tools will now be available in the interface
 
+## 🎯 Live Demo
+
+The MCP tools are fully functional in Claude Desktop once connected to your EC2 server:
+
+### 🎲 Dice Roller in Action
+![Dice Roller Tool](images/dice-roller-demo.png)
+*Rolling dice with the MCP tool - showing a successful roll of 5 on a 6-sided die*
+
+### 🎱 Magic 8-Ball Mystical Responses
+![Magic 8-Ball Tool](images/magic-8-ball-demo.png)
+*Getting mystical answers from the Magic 8-Ball - "My sources say no" for the question "Can I fly today?"*
+
+### 🔐 Secure Password Generation
+![Password Generator Tool](images/password-generator-demo.png)
+*Generating a secure 12-character password with symbols included: kStsO%elu3Wk*
+
 ## Available Tools
 
 ### 1. Greeting Tool
