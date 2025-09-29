@@ -1,7 +1,7 @@
 import random
 from mcp.server.fastmcp import FastMCP
 
-mcp = FastMCP("server")
+mcp = FastMCP("server", host="0.0.0.0", port=8000)
 
 
 @mcp.tool()
